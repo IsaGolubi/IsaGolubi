@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Prazer! Sou Isabella Golubiewski Silva! ❤️</h1>
-  <p>Sou uma aprendiz de Linguagens de Programação para Desenvolvimento WEB</p>
+  <p>Sou uma aprendiz de Linguagens de Programação para Desenvolvimento WEB.</p>
 </div>
 
 <h2 align="center">Tecnologias que mais utilizo</h2>
